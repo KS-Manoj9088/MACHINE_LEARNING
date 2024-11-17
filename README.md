@@ -1,5 +1,5 @@
-# git_test
+This a Complete Machine Learnunng Repository.
+This repository contains a variety of machine learning models and techniques, including supervised and unsupervised learning,
+regression, classification, clustering, and more.
 
-Hello guys i am op_thunder. i am learning github using odin-project.
-highly intrested in developing apps,web development and machine learning.
 
